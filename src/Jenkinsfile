@@ -12,6 +12,7 @@ pipeline{
             steps
             {
                 echo"Pushing the initial file to git"
+                echo"trying to add"
             }
         }
         stage('test')
