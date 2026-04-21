@@ -2,6 +2,7 @@ class f1 {
     void display()
     {
         System.out.println("hello there");
+        System.out.println("new line");
     }
 }
 public class Frnd
